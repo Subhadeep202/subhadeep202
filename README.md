@@ -5,11 +5,9 @@
 Passionate Full Stack Developer with experience in building e-commerce websites. I am dedicated to improving my DSA skills to become a better problem solver and deliver more efficient, scalable solutions.
 
 ## Skills
-Frontend - HTML5, CSS3, React Js, Javascript, Nextjs14, Tailwind, BootStrap
+Frontend - HTML5, CSS3, React Js, Javascript, BootStrap
 
 Backend - Node.js, Express
-
-DevOps - Dockers, AWS, Nginx
 
 Database - MongoDB, PostgreSQL
 
