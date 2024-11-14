@@ -31,9 +31,9 @@ LinkedIn
 
 ## GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?subhadeep202=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?subhadeep202=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhadeep202&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep202&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhadeep202&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-subhadeep202&theme=radical)
 
 
