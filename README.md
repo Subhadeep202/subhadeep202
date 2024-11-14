@@ -1,22 +1,22 @@
-subhadeep202/README.md
 
-💫 About Me:
+
+## 💫 About Me:
 
 Passionate Full Stack Developer with experience in building end-to-end encrypted chat services. Currently dedicated in improving my DSA skills to become a better problem solver and deliver more efficient, scalable solutions.
 
-Skills
-Frontend - Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind, Framer-motion
+## Skills
+Frontend - HTML5, CSS3, React Js, Javascript, Nextjs14, Tailwind, BootStrap
 
-Backend - Node.js, Express, WebSockets, OAuth, Zod, Passport.js
+Backend - Node.js, Express
 
 DevOps - Dockers, AWS, Nginx
 
 DataBase - MongoDB, PostgreSQL
 
-🌐 Socials:
+## 🌐 Socials:
 LinkedIn
 
-## Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -31,9 +31,9 @@ LinkedIn
 
 ## GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?subhadeep202=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?subhadeep202=your-username&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-subhadeep202&theme=radical)
 
 
