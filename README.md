@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-Passionate Full Stack Developer with experience in building end-to-end encrypted chat services. Currently dedicated in improving my DSA skills to become a better problem solver and deliver more efficient, scalable solutions.
+Passionate Full Stack Developer with experience in building e-commerce websites. I am dedicated to improving my DSA skills to become a better problem solver and deliver more efficient, scalable solutions.
 
 ## Skills
 Frontend - HTML5, CSS3, React Js, Javascript, Nextjs14, Tailwind, BootStrap
@@ -11,7 +11,7 @@ Backend - Node.js, Express
 
 DevOps - Dockers, AWS, Nginx
 
-DataBase - MongoDB, PostgreSQL
+Database - MongoDB, PostgreSQL
 
 ## 🌐 Socials:
 LinkedIn
@@ -35,5 +35,14 @@ LinkedIn
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep202&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhadeep202&theme=radical)
 
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Subhadeep202&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Top Contributed Repositories
+
+- [ShopPlusPlus](https://github.com/Subhadeep202/ShopPlusPlus)
+- [BlogSite](https://github.com/Subhadeep202/BlogSite)
+- [Portfolio](https://github.com/Subhadeep202/Portfolio)
 
 
